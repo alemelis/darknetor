@@ -4,6 +4,10 @@ Hacked version of pytorch yolov4: [https://github.com/WongKinYiu/PyTorch_YOLOv4]
 
 The main purpose of this repo is to parse `cfg` files and return a `nn.Module` to be used as feature extractor.
 
+```console
+python3 setup.py install
+```
+
 ```python
 from darknetor.models.models import Darknet
 

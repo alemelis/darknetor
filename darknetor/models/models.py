@@ -2,6 +2,7 @@ from darknetor.utils.google_utils import *
 from darknetor.utils.layers import *
 from darknetor.utils.parse_config import *
 from darknetor.utils import torch_utils
+from darknetor.utils.activations import *
 
 ONNX_EXPORT = False
 

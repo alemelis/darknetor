@@ -1,1 +1,4 @@
 *.swp
+build/*
+darknetor.egg-info/*
+dist/*
